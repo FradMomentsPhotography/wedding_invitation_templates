@@ -1,28 +1,11 @@
-# Singple Wedding Invitation Landing Page 
+Source code for our wedding website 👫 (https://we.shyamjos.com/) , Based on HTML theme https://freehtml5.co/wedding-free-html5-bootstrap-template-for-wedding-websites
 
+To set the countdown date see below section in `js/clock.js`
 
-# Section/Feature
-- Main Info
-- Countdown to D-Day
-- Time and Place Info
-- Add to Calendar Button (Google Calendar)
-- Map Direction Button (Google Map)
-- Send Message Button (Whatssapp API)
+````
+  // Target future date/24 hour time/Timezone
+  let targetDate = moment.tz("2023-10-29 12:00", "Asia/Kolkata");
+````
 
-# Stack
-- Netlify (https://netlify.com)
-
-- Bulma CSS (https://bulma.io)
-
-# Info
-- Preview live at: [https://simple-wedding-invitation.dae.ng/] (https://simple-wedding-invitation.dae.ng/)
-- Or check demo at: [https://simple-wedding-invitation.netlify.app/](https://simple-wedding-invitation.netlify.app/)
-
-# Fonts
-- Rouge Script (Google Font)
-- Raleway (Google Font)
-
-
-# Credits
-- Floral vector created by BiZkettE1 - www.freepik.com (https://www.freepik.com/free-photos-vectors/background)
-- Photos from unsplash.com (https://www.unsplash.com)
+## Screenshot
+![screenshot](https://repository-images.githubusercontent.com/698651028/d9cbed4d-10e2-44bd-bca8-e26a251ff182)
